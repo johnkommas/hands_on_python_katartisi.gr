@@ -51,11 +51,20 @@
       <ul><li><b>01. Syntax</b></li>
         <ul>
           <li>01. Welcome</li>
-          <li>02. CommentsKeras</li>
+          <li>02. Comments</li>
           <li>03. Print</li>
           <li>04. Strings</li>
           <li>05. Variables</li>
-          <li>More...</li>
+          <li>06. Errors</li>
+          <li>07. Numbers</li>
+          <li>08. Calculations</li>
+          <li>09. Changing Numbers</li>
+          <li>10. Exponents</li>
+          <li>11. Modulo</li>
+          <li>12. Concatenation</li>
+          <li>13. Plus Equals</li>
+          <li>14. Multi Line Strings</li>
+          <li>15. Review</li>
         </ul>
         </ul>
       <ul>
