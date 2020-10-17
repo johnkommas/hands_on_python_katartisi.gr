@@ -6,6 +6,7 @@
 [![Join the chat at https://gitter.im/hands_on_python_katartisi-gr/community](https://badges.gitter.im/hands_on_python_katartisi-gr/community.svg)](https://gitter.im/hands_on_python_katartisi-gr/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/johnkommas/hands_on_python_katartisi.gr)](CODE_SIZE)
 [![GitHub forks](https://img.shields.io/github/forks/johnkommas/hands_on_python_katartisi.gr?style=social)](FORKS)
+[![GitHub issues](https://img.shields.io/github/issues/johnkommas/hands_on_python_katartisi.gr)](ISSUES)
 # Σε ποιούς απευθύνεται.
 Η γλώσσα προγραμματισμού <img width='10' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" /> python είναι
 μια από τις πρώτες επιλογές ως γλώσσα εισαγωγής στον προγραμματισμό και απευθύνεται σε όσους επιθυμούν
@@ -193,7 +194,3 @@
      - Deepnote
     
 Με Εκτίμηση
-
-
-<center><img  width="300" src="https://github.com/johnkommas/Elounda_Market/blob/master/PLOT_EXAMPLES/signature.png?raw=true" /></center>
-
