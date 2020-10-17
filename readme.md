@@ -1,1 +1,1 @@
-[![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE) [![Join the chat at https://gitter.im/hands_on_python_katartisi-gr/community](https://badges.gitter.im/hands_on_python_katartisi-gr/community.svg)](https://gitter.im/hands_on_python_katartisi-gr/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
