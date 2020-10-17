@@ -7,6 +7,7 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/johnkommas/hands_on_python_katartisi.gr)](CODE_SIZE)
 [![GitHub forks](https://img.shields.io/github/forks/johnkommas/hands_on_python_katartisi.gr?style=social)](FORKS)
 [![GitHub issues](https://img.shields.io/github/issues/johnkommas/hands_on_python_katartisi.gr)](ISSUES)
+[![GitHub last commit](https://img.shields.io/github/last-commit/johnkommas/hands_on_python_katartisi.gr)](COMMIT)
 # Σε ποιούς απευθύνεται.
 Η γλώσσα προγραμματισμού <img width='10' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" /> python είναι
 μια από τις πρώτες επιλογές ως γλώσσα εισαγωγής στον προγραμματισμό και απευθύνεται σε όσους επιθυμούν
