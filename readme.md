@@ -23,7 +23,97 @@
     - `PROJECT` Ασκήσεις που απαιτούν περισσότερα βήματα για την επίλυση τους, θα βρείτε τουλάχιστον ένα project ανά Κεφάλαιο είναι Διαθέσιμο.
     - `QUIZ` Περιέχει Διάφορά Quiz
 - `Hands on Python.key` είναι η παρουσίαση
-    
+
+<table>
+  <tbody>
+    <tr align="center" valign="bottom">
+    <td>
+      </td>
+      <td>
+        <b>LESSON</b>
+        <img src="docs/img/bar.png"/>
+      </td>
+      <td>
+        <b>PROJECT</b>
+        <img src="docs/img/bar.png"/>
+      </td>
+      <td>
+        <b>QUIZ</b>
+        <img src="docs/img/bar.png"/>
+      </td>
+    </tr>
+    </tr>
+    <tr valign="top">
+    <td align="center" valign="middle">
+    <b>Built-in</b>
+      </td>
+      <td>
+      <ul><li><b>01. Syntax</b></li>
+        <ul>
+          <li>01. Welcome</li>
+          <li>02. CommentsKeras</li>
+          <li>03. Print</li>
+          <li>04. Strings</li>
+          <li>05. Variables</li>
+          <li>More...</li>
+        </ul>
+        </ul>
+      <ul>
+        <li><b>02. Functions</b></li>
+          <ul>
+           <li>More...</li>
+           </ul>
+      </ul>
+        <ul>
+        <li><b>03. Control Flow</b></li>
+         <ul>
+           <li>More...</li>
+           </ul>
+        </ul>
+      </td>
+      <td>
+      <ul><li><b>01. Syntax</b></li>
+        <ul>
+          <li>Create Purchasing Information and Receipts for Lovely Loveseats</li>
+          <li>02. CommentsKeras</li>
+        </ul>
+        </ul>
+      <ul>
+        <li><b>02. Functions</b></li>
+          <ul>
+           <li>More...</li>
+           </ul>
+      </ul>
+        <ul>
+        <li><b>03. Control Flow</b></li>
+         <ul>
+           <li>More...</li>
+           </ul>
+        </ul>
+      </td>
+      <td>
+      <ul><li><b>01. Syntax</b></li>
+        <ul>
+          <li>More...</li>
+        </ul>
+        </ul>
+      <ul>
+        <li><b>02. Functions</b></li>
+          <ul>
+           <li>More...</li>
+           </ul>
+      </ul>
+        <ul>
+        <li><b>03. Control Flow</b></li>
+         <ul>
+           <li>More...</li>
+           </ul>
+        </ul>
+      </td>
+    </tr>  
+  </tbody>
+</table>
+
 # Εργαλεία - Εφαρμογές
 - Υπάρχουν πολλά διαθέσιμα εργαλεία - εφαρμογές που μπορείτε να εγκαταστήσετε:
     - H πρότασή μου είναι: 
