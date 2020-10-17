@@ -98,12 +98,6 @@
            </ul>
         </ul>
         <ul>
-        <li><b>07. Strings</b></li>
-         <ul>
-           <li>More...</li>
-           </ul>
-        </ul>
-        <ul>
         <li><b>07. Modules</b></li>
          <ul>
            <li>More...</li>
