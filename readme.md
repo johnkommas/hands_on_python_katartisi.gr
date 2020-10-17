@@ -2,7 +2,9 @@
 <img src="docs/img/logo.png" width="800"/>
 </p>
 
-[![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE) [![Join the chat at https://gitter.im/hands_on_python_katartisi-gr/community](https://badges.gitter.im/hands_on_python_katartisi-gr/community.svg)](https://gitter.im/hands_on_python_katartisi-gr/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![Join the chat at https://gitter.im/hands_on_python_katartisi-gr/community](https://badges.gitter.im/hands_on_python_katartisi-gr/community.svg)](https://gitter.im/hands_on_python_katartisi-gr/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/johnkommas/hands_on_python_katartisi.gr)](CODE_SIZE)
 # Σε ποιούς απευθύνεται.
 Η γλώσσα προγραμματισμού <img width='10' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" /> python είναι
 μια από τις πρώτες επιλογές ως γλώσσα εισαγωγής στον προγραμματισμό και απευθύνεται σε όσους επιθυμούν
