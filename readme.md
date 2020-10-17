@@ -84,7 +84,7 @@
       <ul><li><b>01. Syntax</b></li>
         <ul>
           <li>Create Purchasing Information and Receipts for Lovely Loveseats</li>
-          <li>02. CommentsKeras</li>
+          <li>02. Comments</li>
         </ul>
         </ul>
       <ul>
