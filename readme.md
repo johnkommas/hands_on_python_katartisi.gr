@@ -186,13 +186,10 @@
 
 # Εργαλεία - Εφαρμογές
 - Υπάρχουν πολλά διαθέσιμα εργαλεία - εφαρμογές που μπορείτε να εγκαταστήσετε:
-    - H πρότασή μου είναι: 
-        - PyCharm Professional Edition
-    - Άλλες Αξιοσημείωτες Προτάσεις
-        - PyCharm Community Edition
-        - Visual Studio Code
-        - Spyder
-        - JupiterLab
+    - PyCharm
+    - Visual Studio Code
+    - Spyder
+    - JupiterLab
 - Ωστόσο Υπάρχουν και λύσεις που δεν απαιτούν προεγκατάσταση λογισμικού όπως:
      - Colaboratory
      - Binder
