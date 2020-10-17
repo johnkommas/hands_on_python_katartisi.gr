@@ -20,7 +20,7 @@
 # Περιήγηση
 - Θα βρείτε 3 Φακέλους
     - `LESSON`  Ασκήσεις προς επίλυση όπως διατυπώνονται στην παρουσίαση
-    - `PROJECT` Ασκήσεις που απαιτούν περισσότερα βήματα για την επίλυση τους, θα βρείτε τουλάχιστον ένα project ανά Κεφάλαιο είναι Διαθέσιμο.
+    - `PROJECT` Ασκήσεις που απαιτούν περισσότερα βήματα για την επίλυση τους, θα βρείτε τουλάχιστον ένα project ανά Κεφάλαιο.
     - `QUIZ` Περιέχει Διάφορά Quiz
 - `Hands on Python.key` είναι η παρουσίαση
 
@@ -75,6 +75,60 @@
       </ul>
         <ul>
         <li><b>03. Control Flow</b></li>
+         <ul>
+           <li>More...</li>
+           </ul>
+        </ul>
+        <ul>
+        <li><b>04. Lists</b></li>
+         <ul>
+           <li>More...</li>
+           </ul>
+        </ul>
+        <ul>
+        <li><b>05. Loops</b></li>
+         <ul>
+           <li>More...</li>
+           </ul>
+        </ul>
+        <ul>
+        <li><b>06. Strings</b></li>
+         <ul>
+           <li>More...</li>
+           </ul>
+        </ul>
+        <ul>
+        <li><b>07. Strings</b></li>
+         <ul>
+           <li>More...</li>
+           </ul>
+        </ul>
+        <ul>
+        <li><b>07. Modules</b></li>
+         <ul>
+           <li>More...</li>
+           </ul>
+        </ul>
+        <ul>
+        <li><b>08. Dictionaries</b></li>
+         <ul>
+           <li>More...</li>
+           </ul>
+        </ul>
+        <ul>
+        <li><b>09. Files</b></li>
+         <ul>
+           <li>More...</li>
+           </ul>
+        </ul>
+        <ul>
+        <li><b>10. Classes</b></li>
+         <ul>
+           <li>More...</li>
+           </ul>
+        </ul>
+        <ul>
+        <li><b>11. Function Arguments</b></li>
          <ul>
            <li>More...</li>
            </ul>
