@@ -1,6 +1,7 @@
 <p align="center">
 <img src="docs/img/logo.png" width="300"/>
 </p>
+
 [![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE) [![Join the chat at https://gitter.im/hands_on_python_katartisi-gr/community](https://badges.gitter.im/hands_on_python_katartisi-gr/community.svg)](https://gitter.im/hands_on_python_katartisi-gr/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 # Σε ποιούς απευθύνεται.
 Η γλώσσα προγραμματισμού <img width='10' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" /> python είναι
