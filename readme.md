@@ -276,5 +276,3 @@
   </tr>
 </table>   
 
-- Create Account in GitHub <a href="https://github.com">Account in GitHub </a>    
-Με Εκτίμηση
