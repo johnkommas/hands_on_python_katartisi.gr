@@ -220,7 +220,7 @@
 </p>
 - Download Latest Version of Python <a href="https://www.python.org/downloads/">Here </a>
 <p align="center">
-<img src="docs/img/GitHub.jpg" width="100"/>
+<img src="docs/img/GitHub.png" width="100"/>
 </p>
 - Create Account in GitHub <a href="https://github.com">Here </a>    
 Με Εκτίμηση
