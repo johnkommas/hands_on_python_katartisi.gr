@@ -200,7 +200,7 @@
      - Deepnote
 
 # Προαπαιτούμενα Παρακολούθησης Σεμιναρίου
-## Operating System 
+## <p align="center"> Operating System </center>
 <table style="width:100%">
   <tr align="center" valign="bottom">
     <th><p align="center">
@@ -226,7 +226,7 @@
   </tr>
 </table>
 
-## Hardware
+## <p align="center"> Hardware </center>
 
 <table style="width:100%">
   <tr align="center" valign="bottom">
@@ -253,7 +253,7 @@
   </tr>
 </table>
 
-## Software / Accounts
+## <p align="center"> Software / Accounts </center>
 
 <table style="width:100%">
   <tr align="center" valign="bottom">
@@ -280,5 +280,5 @@
   </tr>
 </table>   
 
-## Addons
+## <p align="center"> Addons </center>
 
