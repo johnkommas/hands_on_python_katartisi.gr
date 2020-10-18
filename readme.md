@@ -231,9 +231,9 @@
 </th>
   </tr>
   <tr>
-    <td><a href="https://www.jetbrains.com/pycharm/download/">Pycharm Community Edition </a></td>
-    <td><a href="https://www.python.org/downloads/">Latest Version of Python </a></td> 
-    <td><a href="https://github.com">Account in GitHub </a></td>
+    <td><p align="center"><a href="https://www.jetbrains.com/pycharm/download/">Download Community Edition</a></p></td>
+    <td><p align="center"><a href="https://www.python.org/downloads/">Download Latest Version</a></p></td> 
+    <td><p align="center"><a href="https://github.com">Create Account</a></p></td>
   </tr>
 </table>   
 
