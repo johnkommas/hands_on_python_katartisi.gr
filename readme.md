@@ -220,15 +220,36 @@
 </th>
   </tr>
   <tr>
-    <td>Windows 10, 64-bit</td>
-    <td>macOS 10.13 or higher</td> 
-    <td>GNOME or KDE desktop</td>
+    <td><p align="center">Windows 10, 64-bit</p></td>
+    <td><p align="center">macOS 10.13 or higher</p></td> 
+    <td><p align="center">GNOME or KDE desktop</p></td>
   </tr>
 </table>
-- RAM: 2 GB minimum, 8 GB recommended
-- SSD: 2.5 GB Minimum Free Space
-- Resolution: 1024x768 minimum screen resolution
-- Python 3.5 or newer
+
+<table style="width:100%">
+  <tr align="center" valign="bottom">
+    <th><p align="center">
+<img src="docs/img/Ram.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th>
+    <th><p align="center">
+<img src="docs/img/SSD.svg" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th> 
+    <th><p align="center">
+<img src="docs/img/Screen.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th>
+  </tr>
+  <tr>
+    <td><p align="center">RAM: 2 GB minimum, 8 GB recommended</p></td>
+    <td><p align="center">2.5 GB Minimum Free Space</p></td> 
+    <td><p align="center">1024x768 minimum screen resolution</p></td>
+  </tr>
+</table>
 
 <table style="width:100%">
   <tr align="center" valign="bottom">
