@@ -212,9 +212,12 @@
     - Resolution: 1024x768 minimum screen resolution
     - Python 3.5 or newer
 <p align="center">
-<img src="docs/img/Pycharm.png" width="100"/>
+<img src="docs/img/PyCharm.png" width="100"/>
+Download Pycharm Community Edition <a href="https://www.jetbrains.com/pycharm/download/">Here </a>
 </p>
-- Download Pycharm Community Edition <a href="https://www.jetbrains.com/pycharm/download/">Here </a>
+
+
+
 <p align="center">
 <img src="docs/img/Python.png" width="100"/>
 </p>
