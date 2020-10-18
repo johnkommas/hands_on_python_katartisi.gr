@@ -281,4 +281,24 @@
 </table>   
 
 ## <p align="center"> Addons </center>
+<table style="width:100%">
+  <tr align="center" valign="bottom">
+    </th>
+    <th><p align="center">
+<img src="docs/img/GitLive.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th> 
+    <th><p align="center">
+<img src="docs/img/csv.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th> 
+  </tr>
+  <tr>
+    <td><p align="center"><a href="https://git.live">Link</a></p></td>
+    <td><p align="center"><a href="https://plugins.jetbrains.com/plugin/12896-rainbow-csv">Link</a></p></td>
+  </tr>
+</table>
+
 
