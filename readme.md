@@ -280,7 +280,7 @@
   </tr>
 </table>   
 
-## <p align="center"> Addons </center>
+## <p align="center"> Pycharm Plugins </center>
 <table style="width:100%">
   <tr align="center" valign="bottom">
     </th>
