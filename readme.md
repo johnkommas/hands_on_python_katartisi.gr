@@ -82,7 +82,17 @@
       <ul>
         <li><b>02. Functions</b></li>
           <ul>
-           <li>More...</li>
+           <li>01. Introduction to Functions</li>
+           <li>02. What is a Function</li>
+           <li>03. Write a Function</li>
+           <li>04. Whitespace</li>
+           <li>05. Parameters</li>
+           <li>06. Multiple Parameters</li>
+           <li>07. Keyword Arguments</li>
+           <li>08. Returns</li>
+           <li>09. Multiple Return Values</li>
+           <li>10. Scope</li>
+           <li>11. Review</li>
            </ul>
       </ul>
         <ul>
@@ -143,7 +153,7 @@
       <td>
       <ul><li><b>01. Syntax</b></li>
         <ul>
-          <li>Create Purchasing Information and Receipts for Lovely Loveseats</li>
+          <li>Sales</li>
           <li>02. Comments</li>
         </ul>
         </ul>
