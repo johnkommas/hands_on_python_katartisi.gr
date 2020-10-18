@@ -211,19 +211,25 @@
     - SSD: 2.5 GB Minimum Free Space
     - Resolution: 1024x768 minimum screen resolution
     - Python 3.5 or newer
-<p align="center">
+
+<table style="width:100%">
+  <tr>
+    <th><p align="center">
 <img src="docs/img/PyCharm.png" width="100"/>
-<br>Download Pycharm Community Edition <a href="https://www.jetbrains.com/pycharm/download/">Here </a>
-</p>
-
-
-
-<p align="center">
+</p></th>
+    <th><p align="center">
 <img src="docs/img/Python.png" width="100"/>
-</p>
-- Download Latest Version of Python <a href="https://www.python.org/downloads/">Here </a>
-<p align="center">
+</p></th> 
+    <th><p align="center">
 <img src="docs/img/GitHub.png" width="100"/>
-</p>
-- Create Account in GitHub <a href="https://github.com">Here </a>    
+</p></th>
+  </tr>
+  <tr>
+    <td><a href="https://www.jetbrains.com/pycharm/download/">Pycharm Community Edition </a></td>
+    <td><a href="https://www.python.org/downloads/">Latest Version of Python </a></td> 
+    <td><a href="https://github.com">Account in GitHub </a></td>
+  </tr>
+</table>   
+
+- Create Account in GitHub <a href="https://github.com">Account in GitHub </a>    
 Με Εκτίμηση
