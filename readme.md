@@ -32,7 +32,7 @@
         - Βιοεπιστήμες
         
 - Γενικά σε κάθε χώρο όπου απαιτείται η επεξεργασία δεδομένων μεγάλου όγκου για την πραγματοποίηση υπολογισμών.
- 
+
 # Υλικό Σεμιναρίου
 - Θα βρείτε 3 Φακέλους
     - `LESSON`  Ασκήσεις προς επίλυση όπως διατυπώνονται στην παρουσίαση
@@ -198,5 +198,29 @@
      - Colaboratory
      - Binder
      - Deepnote
-    
+
+# Προαπαιτούμενα Παρακολούθησης Σεμιναρίου
+- System requirements
+    - Windows
+        - 64-bit versions of Microsoft Windows 10
+    - Mac
+        - macOS 10.13 or higher
+    - Linux 
+        - GNOME or KDE desktop
+    - RAM: 2 GB minimum, 8 GB recommended
+    - SSD: 2.5 GB Minimum Free Space
+    - Resolution: 1024x768 minimum screen resolution
+    - Python 3.5 or newer
+<p align="center">
+<img src="docs/img/Pycharm.png" width="100"/>
+</p>
+- Download Pycharm Community Edition <a href="https://www.jetbrains.com/pycharm/download/">Here </a>
+<p align="center">
+<img src="docs/img/Python.png" width="100"/>
+</p>
+- Download Latest Version of Python <a href="https://www.python.org/downloads/">Here </a>
+<p align="center">
+<img src="docs/img/GitHub.jpg" width="100"/>
+</p>
+- Create Account in GitHub <a href="https://github.com">Here </a>    
 Με Εκτίμηση
