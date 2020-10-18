@@ -44,8 +44,6 @@
 <table>
   <tbody>
     <tr align="center" valign="bottom">
-    <td>
-      </td>
       <td>
         <b>LESSON</b>
         <img src="docs/img/bar.png"/>
@@ -61,9 +59,6 @@
     </tr>
     </tr>
     <tr valign="top">
-    <td align="center" valign="middle">
-    <b>Built-in</b>
-      </td>
       <td>
       <ul><li><b>01. Syntax</b></li>
         <ul>
