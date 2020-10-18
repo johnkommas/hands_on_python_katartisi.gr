@@ -200,7 +200,7 @@
      - Deepnote
 
 # Προαπαιτούμενα Παρακολούθησης Σεμιναρίου
-## System requirements
+## Operating System 
 <table style="width:100%">
   <tr align="center" valign="bottom">
     <th><p align="center">
@@ -225,6 +225,8 @@
     <td><p align="center">GNOME or KDE desktop</p></td>
   </tr>
 </table>
+
+## Hardware
 
 <table style="width:100%">
   <tr align="center" valign="bottom">
@@ -252,6 +254,7 @@
 </table>
 
 ## Software / Accounts
+
 <table style="width:100%">
   <tr align="center" valign="bottom">
     <th><p align="center">
