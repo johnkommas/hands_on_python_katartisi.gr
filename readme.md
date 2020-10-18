@@ -12,9 +12,12 @@
 [![GitHub top language](https://img.shields.io/github/languages/top/johnkommas/hands_on_python_katartisi.gr)](lang)
 [![LGTM Grade](https://img.shields.io/lgtm/grade/python/github/johnkommas/hands_on_python_katartisi.gr)](Code_Quality)
 
+# Σκοπός του σεμιναρίου
+Οι συμμετέχοντες θα είναι σε θέση να αναλύουν, να επεξεργάζονται και να επικοινωνούν ιδέες και δεδομένα με την χρήση της 
+πιο δημοφιλούς γλώσσας προγραμματισμού στον κόσμο.
+
 # Σε ποιούς απευθύνεται.
-Η γλώσσα προγραμματισμού <img width='10' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" /> python είναι
-μια από τις πρώτες επιλογές ως γλώσσα εισαγωγής στον προγραμματισμό και απευθύνεται σε όσους επιθυμούν
+Η γλώσσα προγραμματισμού <img width='20' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" /> python απευθύνεται σε όσους επιθυμούν
 να χρησιμοποιήσουν την γλώσσα ως εργαλείο για:
 - Πραγματοποίηση έρευνας και επεξεργασία δεδομένων
     - Επιστήμη Δεδομένων (Data Science)
@@ -30,13 +33,14 @@
         
 - Γενικά σε κάθε χώρο όπου απαιτείται η επεξεργασία δεδομένων μεγάλου όγκου για την πραγματοποίηση υπολογισμών.
  
-# Περιήγηση
+# Υλικό Σεμιναρίου
 - Θα βρείτε 3 Φακέλους
     - `LESSON`  Ασκήσεις προς επίλυση όπως διατυπώνονται στην παρουσίαση
     - `PROJECT` Ασκήσεις που απαιτούν περισσότερα βήματα για την επίλυση τους, θα βρείτε τουλάχιστον ένα project ανά κεφάλαιο.
     - `QUIZ` Περιέχει διάφορά quiz
 - `Hands on Python.key` είναι η παρουσίαση
 
+# Eνότητες Σεμιναρίου
 <table>
   <tbody>
     <tr align="center" valign="bottom">
