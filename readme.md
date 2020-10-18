@@ -200,17 +200,35 @@
      - Deepnote
 
 # Προαπαιτούμενα Παρακολούθησης Σεμιναρίου
-- System requirements
-    - Windows
-        - 64-bit versions of Microsoft Windows 10
-    - Mac
-        - macOS 10.13 or higher
-    - Linux 
-        - GNOME or KDE desktop
-    - RAM: 2 GB minimum, 8 GB recommended
-    - SSD: 2.5 GB Minimum Free Space
-    - Resolution: 1024x768 minimum screen resolution
-    - Python 3.5 or newer
+## System requirements
+<table style="width:100%">
+  <tr align="center" valign="bottom">
+    <th><p align="center">
+<img src="docs/img/Windows.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th>
+    <th><p align="center">
+<img src="docs/img/Mac.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th> 
+    <th><p align="center">
+<img src="docs/img/Linux.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th>
+  </tr>
+  <tr>
+    <td>Windows 10, 64-bit</td>
+    <td>macOS 10.13 or higher</td> 
+    <td>GNOME or KDE desktop</td>
+  </tr>
+</table>
+- RAM: 2 GB minimum, 8 GB recommended
+- SSD: 2.5 GB Minimum Free Space
+- Resolution: 1024x768 minimum screen resolution
+- Python 3.5 or newer
 
 <table style="width:100%">
   <tr align="center" valign="bottom">
