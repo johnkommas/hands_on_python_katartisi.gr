@@ -154,7 +154,7 @@
       <ul><li><b>01. Syntax</b></li>
         <ul>
           <li>Sales</li>
-          <li>02. Comments</li>
+          <li>Μore../li>
         </ul>
         </ul>
       <ul>
