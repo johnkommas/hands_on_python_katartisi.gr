@@ -213,16 +213,22 @@
     - Python 3.5 or newer
 
 <table style="width:100%">
-  <tr>
+  <tr align="center" valign="bottom">
     <th><p align="center">
 <img src="docs/img/PyCharm.png" width="100"/>
-</p></th>
+</p>
+<img src="docs/img/bar.png"/>
+</th>
     <th><p align="center">
 <img src="docs/img/Python.png" width="100"/>
-</p></th> 
+</p>
+<img src="docs/img/bar.png"/>
+</th> 
     <th><p align="center">
 <img src="docs/img/GitHub.png" width="100"/>
-</p></th>
+</p>
+<img src="docs/img/bar.png"/>
+</th>
   </tr>
   <tr>
     <td><a href="https://www.jetbrains.com/pycharm/download/">Pycharm Community Edition </a></td>
