@@ -1,6 +1,7 @@
 #  Copyright (c) 2020. Ioannis E. Kommas. All Rights Reserved.
 
 # ------------------- ΑΣΚΗΣΗ ---------------------
+#Εκχωρήστε τo παρακάτω κείμενο:
 # Filoxenia
 # We're sure you've heard about how remarkably hospitable people Greeks are.
 # But did you know that this hospitality traces all the way back to ancient Greece?
@@ -12,4 +13,6 @@
 #  of their country. Besides, the word they use to describe their hospitality is the
 #  same one Greeks used in antiquity: 'filoxenia' [filokseniːa], literally meaning
 #  the state of being a friend to strangers.
+#Στην μεταβλητή:  to_you
+#Εκτυπώστε και εκτελέστε την για να δείτε το αποτέλεσμα στο τερματικό'
 

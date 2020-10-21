@@ -18,6 +18,11 @@ print(f'I am {age} years old today!')
 print('I am {} years old today!'.format(age))
 
 # ------------------- ΑΣΚΗΣΗ ---------------------
+"""
+Συνδυάστε τις συμβολοσειρές και αποθηκεύστε το μήνυμα που σχηματίζουν στην μεταβλητή message.
+Εκτυπώστε και εκτελέστε τον κωδικό σας για να δείτε το αποτέλεσμα στο τερματικό!
+"""
+
 string1 = "The wind, "
 string2 = "which had hitherto carried us along with amazing rapidity, "
 string3 = "sank at sunset to a light breeze; "
