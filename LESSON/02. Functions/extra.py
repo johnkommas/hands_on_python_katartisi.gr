@@ -1,10 +1,10 @@
-# 01 ------------------- ΑΣΚΗΣΗ ---------------------
+# exercise 01 ------------------- ΑΣΚΗΣΗ ---------------------
 """
 Write a function named first_three_multiples() that has one parameter named num.
 
 This function should print the first three multiples of num. Then, it should return the third multiple.
 
-For example, first_three_multiples(7) should print 7, 14, and 21 on three different lines, and return 21.
+For ex., first_three_multiples(7) should print 7, 14, and 21 on three different lines, and return 21.
 """
 # Write your first_three_multiples function here
 
@@ -16,7 +16,7 @@ For example, first_three_multiples(7) should print 7, 14, and 21 on three differ
 # should print 0, 0, 0, and return 0
 
 
-# 02 ------------------- ΑΣΚΗΣΗ ---------------------
+# exercise 02 ------------------- ΑΣΚΗΣΗ ---------------------
 """
 Create a function called tip() that has two parameters named total and percentage.
 
@@ -31,7 +31,7 @@ This function should return the amount you should tip given a total and the perc
 # should print 0.0
 
 
-# 03 ------------------- ΑΣΚΗΣΗ ---------------------
+# exercise 03 ------------------- ΑΣΚΗΣΗ ---------------------
 """
 Write a function named introduction() that has two parameters named first_name and last_name.
 
@@ -46,7 +46,7 @@ The function should return the last_name, followed by a comma, a space, first_na
 # should print Angelou, Maya Angelou
 
 
-# 04 ------------------- ΑΣΚΗΣΗ ---------------------
+# exercise 04 ------------------- ΑΣΚΗΣΗ ---------------------
 """
 Some say that every one year of a human’s life is equivalent to seven years of a dog’s life. Write a function 
 named dog_years() that has two parameters named name and age.
@@ -65,7 +65,7 @@ Test this function with your name and your age!
 # should print "Baby, you are 0 years old in dog years"
 
 
-# 05 ------------------- ΑΣΚΗΣΗ ---------------------
+# exercise 05 ------------------- ΑΣΚΗΣΗ ---------------------
 """
 Create a function named lots_of_math(). This function should have four parameters named a, b, c, and d.
 The function should print 3 lines and return 1 value.
@@ -87,7 +87,7 @@ Finally, return the third number printed mod a.
 # should print 2, 0, 0, 0
 
 
-# 06 ------------------- ΑΣΚΗΣΗ ---------------------
+# exercise 06 ------------------- ΑΣΚΗΣΗ ---------------------
 """
 Write a function named tenth_power() that has one parameter named num.
 
@@ -103,7 +103,7 @@ The function should return num raised to the 10th power.
 # print(tenth_power(2))
 # 2 to the 10th power is 1024
 
-# 07 ------------------- ΑΣΚΗΣΗ ---------------------
+# exercise 07 ------------------- ΑΣΚΗΣΗ ---------------------
 """
 Write a function named square_root() that has one parameter named num.
 
@@ -116,3 +116,11 @@ Use exponents (**) to return the square root of num.
 # should print 4
 # print(square_root(100))
 # should print 10
+
+
+# exercise 08 ------------------- ΑΣΚΗΣΗ ---------------------
+# TODO Create a function that calculates the factorial of a given positive number
+# TODO 1. Get the number from input
+# TODO 2. (EXTRA DIFFICULT) CREATE a FUNCTION and Check if input is a positive integer number
+# TODO 3. Pass that number to your Factorial Function
+# TODO 4. Print the result of the calculation
