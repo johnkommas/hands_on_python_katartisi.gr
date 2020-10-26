@@ -10,7 +10,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/johnkommas/hands_on_python_katartisi.gr)](COMMIT)
 [![GitHub language count](https://img.shields.io/github/languages/count/johnkommas/hands_on_python_katartisi.gr)](LANGUAGES)
 [![GitHub top language](https://img.shields.io/github/languages/top/johnkommas/hands_on_python_katartisi.gr)](lang)
-[![LGTM Grade](https://img.shields.io/lgtm/grade/python/github/johnkommas/hands_on_python_katartisi.gr)](Code_Quality)
+[![LGTM Grade](https://img.shields.io/lgtm/grade/python/github/johnkommas/hands_on_python_katartisi.gr)](https://lgtm.com/projects/g/johnkommas/hands_on_python_katartisi.gr?mode=list)
 
 # Σκοπός του σεμιναρίου
 Οι συμμετέχοντες θα είναι σε θέση να αναλύουν, να επεξεργάζονται και να επικοινωνούν ιδέες και δεδομένα με την χρήση της 
