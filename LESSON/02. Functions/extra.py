@@ -118,9 +118,23 @@ Use exponents (**) to return the square root of num.
 # should print 10
 
 
-# exercise 08 ------------------- ΑΣΚΗΣΗ ---------------------
-# TODO Create a function that calculates the factorial of a given positive number
+# exercise 08 ADVANCED ------------------- ΑΣΚΗΣΗ ---------------------
+# TODO Create a function ("name it factorial") that calculates the factorial of a given positive number
 # TODO 1. Get the number from input
 # TODO 2. (EXTRA DIFFICULT) CREATE a FUNCTION and Check if input is a positive integer number
 # TODO 3. Pass that number to your Factorial Function
 # TODO 4. Print the result of the calculation
+
+
+# exercise 08 ADVANCED ------------------- ΑΣΚΗΣΗ ---------------------
+# TODO 1. Write a Python program to reverse a string. Go to the editor
+# Sample String : "1234abcd"
+# Expected Output : "dcba4321"
+# try and see print(string[::-1])
+
+# exercise 08 ADVANCED------------------- ΑΣΚΗΣΗ ---------------------
+# TODO 1.  Write a  function to check whether an int number is in a given range
+# try number in range(start_range, end_range + 1)
+
+# exercise 09 ------------------- ΑΣΚΗΣΗ ---------------------
+# TODO 1.  Write a  function to check and return True if the given integer number is an even number False if not
