@@ -3,7 +3,7 @@
 </p>
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
-[![Join the chat at https://gitter.im/hands_on_python_katartisi-gr/community](https://badges.gitter.im/hands_on_python_katartisi-gr/community.svg)](https://gitter.im/hands_on_python_katartisi-gr/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Slack](https://img.shields.io/badge/Chat-on%20Slack-red)](https://join.slack.com/t/python-9ks7411/shared_invite/zt-ids1bzli-Z~b6Wrk94_e8s1RFwh3WYQ)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/johnkommas/hands_on_python_katartisi.gr)](CODE_SIZE)
 [![GitHub forks](https://img.shields.io/github/forks/johnkommas/hands_on_python_katartisi.gr?style=social)](FORKS)
 [![GitHub issues](https://img.shields.io/github/issues/johnkommas/hands_on_python_katartisi.gr)](ISSUES)
