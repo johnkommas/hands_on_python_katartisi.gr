@@ -4,13 +4,14 @@
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 [![Slack](https://img.shields.io/badge/Chat-on%20Slack-red)](https://join.slack.com/t/python-9ks7411/shared_invite/zt-ids1bzli-Z~b6Wrk94_e8s1RFwh3WYQ)
+[![Trello](https://img.shields.io/badge/Project-on%20Trello-blue)](https://trello.com/b/uYNjnBAQ/hands-on-python)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/johnkommas/hands_on_python_katartisi.gr)](CODE_SIZE)
-[![GitHub forks](https://img.shields.io/github/forks/johnkommas/hands_on_python_katartisi.gr?style=social)](FORKS)
 [![GitHub issues](https://img.shields.io/github/issues/johnkommas/hands_on_python_katartisi.gr)](ISSUES)
 [![GitHub last commit](https://img.shields.io/github/last-commit/johnkommas/hands_on_python_katartisi.gr)](COMMIT)
 [![GitHub language count](https://img.shields.io/github/languages/count/johnkommas/hands_on_python_katartisi.gr)](LANGUAGES)
 [![GitHub top language](https://img.shields.io/github/languages/top/johnkommas/hands_on_python_katartisi.gr)](lang)
 [![LGTM Grade](https://img.shields.io/lgtm/grade/python/github/johnkommas/hands_on_python_katartisi.gr)](https://lgtm.com/projects/g/johnkommas/hands_on_python_katartisi.gr?mode=list)
+[![GitHub forks](https://img.shields.io/github/forks/johnkommas/hands_on_python_katartisi.gr?style=social)](FORKS)
 
 # Σκοπός του σεμιναρίου
 Οι συμμετέχοντες θα είναι σε θέση να αναλύουν, να επεξεργάζονται και να επικοινωνούν ιδέες και δεδομένα με την χρήση της 

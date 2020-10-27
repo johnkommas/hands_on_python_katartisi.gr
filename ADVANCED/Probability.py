@@ -1,6 +1,6 @@
 import random
 
-num_people_in_room = 120  # Change This Number min: 2 max: 83
+num_people_in_room = 90  # Change This Number min: 2 max: 83
 
 
 # Simulate a room with a certain number of people

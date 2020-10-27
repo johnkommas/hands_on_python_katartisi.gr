@@ -5,7 +5,6 @@ from datetime import datetime as dt
 import calendar
 
 
-
 def cryptography():
     # Public Agreement for (g,p)
     g = 3
@@ -35,7 +34,6 @@ def cryptography():
     print(f'Now we need to check if both keys are the Same: Alice_key == Bob_key : {Alice_key == Bob_key}')
 
 
-
 def leap_year():
     def answer(year):
         yes_or_no = ('Είναι' if calendar.isleap(year) else 'Δεν Είναι')
@@ -46,5 +44,3 @@ def leap_year():
 
     print('\n\n', calendar.month(dt.now().year, 2))
     print(calendar.month(2100, 2))
-
-
