@@ -1,6 +1,6 @@
 #  Copyright (c) 2020. Ioannis E. Kommas. All Rights Reserved.
 
-# ------------------- ΑΣΚΗΣΗ ---------------------
+# TODO ------------------- ΑΣΚΗΣΗ ---------------------
 #Εκχωρήστε τo παρακάτω κείμενο:
 # Filoxenia
 # We're sure you've heard about how remarkably hospitable people Greeks are.

@@ -126,15 +126,16 @@ Use exponents (**) to return the square root of num.
 # TODO 4. Print the result of the calculation
 
 
-# exercise 08 ADVANCED ------------------- ΑΣΚΗΣΗ ---------------------
+# exercise 09 ADVANCED ------------------- ΑΣΚΗΣΗ ---------------------
 # TODO 1. Write a Python program to reverse a string. Go to the editor
 # Sample String : "1234abcd"
 # Expected Output : "dcba4321"
 # try and see print(string[::-1])
 
-# exercise 08 ADVANCED------------------- ΑΣΚΗΣΗ ---------------------
+# exercise 10 ADVANCED------------------- ΑΣΚΗΣΗ ---------------------
 # TODO 1.  Write a  function to check whether an int number is in a given range
 # try number in range(start_range, end_range + 1)
 
-# exercise 09 ------------------- ΑΣΚΗΣΗ ---------------------
+
+# exercise 11 ------------------- ΑΣΚΗΣΗ ---------------------
 # TODO 1.  Write a  function to check and return True if the given integer number is an even number False if not
