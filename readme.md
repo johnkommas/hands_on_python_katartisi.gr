@@ -161,13 +161,13 @@
       <ul>
         <li><b>02. Functions</b></li>
           <ul>
-           <li>More...</li>
+           <li>Getting Ready for Physics</li>
            </ul>
       </ul>
         <ul>
         <li><b>03. Control Flow</b></li>
          <ul>
-           <li>More...</li>
+           <li>Games of Chance</li>
            </ul>
         </ul>
       </td>
