@@ -6,13 +6,14 @@
 # SOLUTIONS
 - AWARNESS
 - BE PHYSICALLY AND MENTALLY PREPARED TO LISTEN
-- SET A GOLA (100%)
+- SET A GOAL (100%)
 - SIT FRONT CENTER
 - PRACTICE - DICTATION
 - BE FASCINATED (OR PRETEND TO BE FASCINATED IF YOU HAVE TO)
 
 
-
+# TODO 
+- Παρακαλώ δείτε το βίντεο που υπάρχει στο παρακάτω link.
 <td><p align="center"><a
  href="https://www.youtube.com/watch?v=Y9LBUf1NzU0&list=PLboVYa42n52wU9_ALqUcsqCb8dclZR9YV&index=2"
  >LECTURE HERE</a></p></td>
