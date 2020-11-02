@@ -15,7 +15,7 @@
         <b> TO DO</b>
       </td>
       <td>
-        <b>TIME</b>
+        <b><center>TIME</center></b>
       </td>
     </tr>
     <tr valign="top">
