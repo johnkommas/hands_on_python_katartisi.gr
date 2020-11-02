@@ -1,7 +1,8 @@
 <p align="center">
 <img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/logo.png?raw=true" width="800"/>
 </p>
-<P ALIGN="CENTER"># TAKING NOTES</P>
+<p align="center"><b>TAKING NOTES<b></b></p>
+
 # QUESTIONS
 > - AM I TOO BUSY?
 > - DO I KNOW HOW TO SET & REACH GOALS?
