@@ -48,20 +48,20 @@
 </table>
 
 # GOALS
-- `S` FOR SPECIFIC
-- `M` FOR MEASURABLE
-- `A` FOR ACTION ORIENTED
-- `R` FOR REALISTIC
-- `T` FOR TIME BASED
+> - `S` FOR SPECIFIC
+> - `M` FOR MEASURABLE
+> - `A` FOR ACTION ORIENTED
+> - `R` FOR REALISTIC
+> - `T` FOR TIME BASED
 
 
 # CALENDAR
-- HOW TO USE IT
-- HOW TO FILL IT
-    - ORDER 
-        - FIRST GOES FUN
-        - THEN EVERYTHING ELSE
-        - FINALLY STUDY TIME
+> - HOW TO USE IT
+> - HOW TO FILL IT
+>    - ORDER 
+>        - FIRST GOES FUN
+>        - THEN EVERYTHING ELSE
+>        - FINALLY STUDY TIME
         
 # BEST TIME OF DAY ?
 > - MAKE SURE YOU PUT THE READ TIME IN IT
@@ -74,7 +74,7 @@
 > - USE ABC PRIORITY METHOD
 
 # TODO 
-- Click The Link Below & See The Video From LBCC University.
+> - Click The Link Below & See The Video From LBCC University.
 <td><p align="center">
 <a href="https://www.youtube.com/watch?v=3_ElR-uPOhw">LECTURE HERE PART 1</a>
 </p></td>
