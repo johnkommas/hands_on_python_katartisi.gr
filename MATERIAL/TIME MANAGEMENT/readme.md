@@ -4,6 +4,7 @@
 
 # QUESTIONS
 > - AM I TOO BUSY?
+> - DO I KNOW HOW TO SET & REACH GOALS?
 
 # EVERY DAY ROUTINE
 <table>
@@ -36,6 +37,13 @@
       </tr>
 </tbody>
 </table>
+
+# GOALS
+- `S` FOR SPECIFIC
+- `M` FOR MEASURABLE
+- `A` FOR ACTION ORIENTED
+- `R` FOR REALISTIC
+- `T` FOR TIME BASED
 
 # TODO 
 - Click The Link Below & See The Video From LBCC University.
