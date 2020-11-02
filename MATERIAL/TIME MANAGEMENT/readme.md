@@ -5,13 +5,11 @@
 <table>
     <tbody>
     <tr>
-        <td>
+      <td>
         <b>DOING</b>
-        <img src="docs/img/bar.png"/>
       </td>
       <td>
         <b>TIME</b>
-        <img src="docs/img/bar.png"/>
       </td>
     </tr>
     <tr valign="top">
@@ -25,22 +23,16 @@
       </td>
       <td>
       <ul><li><b>7 Hours</b></li>
-          <li><b>7 Hours</b></li>
-          <li><b>7 Hours</b></li>
-          <li><b>7 Hours</b></li>
-          <li><b>7 Hours</b></li>
+          <li><b>2 Hours</b></li>
+          <li><b>1 Hours</b></li>
+          <li><b>1 Hours</b></li>
+          <li><b>1 Hours</b></li>
       </ul>
       </td>
-      <td>
       </tr>
 </tbody>
 </table>
 
-> - SLEEP
-> - EAT
-> - TRAVEL
-> - ERRANDS
-> - HYGIENE
 # TODO 
 - Click The Link Below & See The Video From LBCC University.
 > <td><p align="center">
