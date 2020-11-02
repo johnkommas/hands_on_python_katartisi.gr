@@ -35,6 +35,6 @@
 
 # TODO 
 - Click The Link Below & See The Video From LBCC University.
-> <td><p align="center">
+<td><p align="center">
 <a href="https://www.youtube.com/watch?v=3_ElR-uPOhw">LECTURE HERE</a>
 </p></td>
