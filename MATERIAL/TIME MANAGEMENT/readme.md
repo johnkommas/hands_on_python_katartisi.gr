@@ -12,10 +12,10 @@
     <tbody>
     <tr>
       <td>
-        <b> TO DO</b>
+        <b><p align="center">TO DO</p></b>
       </td>
       <td>
-        <b><center>TIME</center></b>
+        <b><p align="center">TIME</p></b>
       </td>
     </tr>
     <tr valign="top">
