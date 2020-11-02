@@ -12,7 +12,7 @@
     <tbody>
     <tr>
       <td>
-        <b>DOING</b>
+        <b> TO DO</b>
       </td>
       <td>
         <b>TIME</b>
