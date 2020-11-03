@@ -30,9 +30,9 @@
     - 01. HOW TO LISTEN
         - Οδηγίες θα βρείτε εδώ: <a href="01. HOW TO LISTEN/">Open Folder</a>
     - 02. REMEMBER
-        - Οδηγίες θα βρείτε εδώ: <a href="https://github.com/johnkommas/hands_on_python_katartisi.gr/tree/master/MATERIAL/02.%20REMEMBER">Open Folder</a>
+        - Οδηγίες θα βρείτε εδώ: <a href="02. REMEMBER">Open Folder</a>
     - 03. TIME MANAGEMENT
-        - Οδηγίες θα βρείτε εδώ: <a href="https://github.com/johnkommas/hands_on_python_katartisi.gr/tree/master/MATERIAL/03.%20TIME%20MANAGEMENT">Open Folder</a>
+        - Οδηγίες θα βρείτε εδώ: <a href="03. TIME MANAGEMENT">Open Folder</a>
     
 Παρακαλείστε θερμά να παρακολουθήσετε αυτά τα 3 `workshops` για την καλύτερη δυνατή απόδοσή σας κατά την διάρκεια του σεμιναρίου. 
 
