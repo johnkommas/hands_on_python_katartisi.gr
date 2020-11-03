@@ -26,7 +26,7 @@
             - On the left tab select your GitHub Account
             - Inside you will find the project you have forked to your account
     
-- Υπάρχουν 3 Φάκελοι, σε κάθε ένα από αυτούς υπάρχουν, σημειώσεις και βίντεο προς παρακολύθηση
+- ΒΗΜΑ 8: Υπάρχουν 3 Φάκελοι, σε κάθε ένα από αυτούς υπάρχουν, σημειώσεις και βίντεο προς παρακολύθηση
     - 01. HOW TO LISTEN
     - 02. REMEMBER
     - 03. TIME MANAGEMENT
