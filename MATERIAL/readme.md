@@ -28,7 +28,7 @@
     
 - ΒΗΜΑ 8: Υπάρχουν 3 Φάκελοι, σε κάθε ένα από αυτούς υπάρχουν, σημειώσεις και βίντεο προς παρακολύθηση
     - 01. HOW TO LISTEN
-        - Οδηγίες θα βρείτε εδώ: <a href="https://github.com/johnkommas/hands_on_python_katartisi.gr/tree/master/MATERIAL/01%20HOW%20TO%20LISTEN">Open Folder</a>
+        - Οδηγίες θα βρείτε εδώ: <a href="https://github.com/johnkommas/hands_on_python_katartisi.gr/tree/master/MATERIAL/01.%20HOW%20TO%20LISTEN">Open Folder</a>
     - 02. REMEMBER
         - Οδηγίες θα βρείτε εδώ: <a href="https://github.com/johnkommas/hands_on_python_katartisi.gr/tree/master/MATERIAL/02.%20REMEMBER">Open Folder</a>
     - 03. TIME MANAGEMENT
