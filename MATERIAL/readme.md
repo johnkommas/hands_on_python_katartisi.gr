@@ -26,7 +26,7 @@
 <img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/4.png?raw=true" width="800"/>
 </p> 
 
-- ΒΗΜΑ 6: Πάνω δεξιά στο `workshop` υπάρχει ένα κουμπί που λέι `fork` πάτησέ το για να αντιγράψεις όλα τα αρχεία στον δικό σου λογαριασμό
+- ΒΗΜΑ 6: Εδώ σε αυτήν την ιστοσελίδα, πάνω πάνω δεξιά υπάρχει ένα κουμπί που λέι `fork` πάτησέ το για να αντιγράψεις όλα τα αρχεία στον δικό σου λογαριασμό
 
 <p align="center">
 <img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/3.png?raw=true" width="800"/>
