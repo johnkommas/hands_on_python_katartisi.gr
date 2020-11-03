@@ -207,7 +207,7 @@
 # Προαπαιτούμενα Παρακολούθησης Σεμιναρίου
 - Οι μαθητές θα πρέπει να έχουν δικό τους laptop με προεγκατεστημένες εφαρμογές.
 - Στον φάκελο `MATERIAL` θα βρείτε οδηγίες και υλικό που καλείστε να παρακολουθήσετε πριν ξεκινήσουν τα μαθήματα.
-    - Διβάστε προσεκτικά τις οδηγίες εδώ:<a href="https://github.com/johnkommas/hands_on_python_katartisi.gr/tree/master/MATERIAL">Click me</a>
+    - Διαβάστε προσεκτικά τις οδηγίες εδώ:<a href="https://github.com/johnkommas/hands_on_python_katartisi.gr/tree/master/MATERIAL">Click me</a>
 - Παρακάτω προτείνουμε το λειτουργικό `OS`. 
 - Τις ελάχιστες απαιτήσεις σε υλικό `HARDWARE`. 
 - Τις εφαρμογές που θα εγκαταστήσετε `SOFTWARE`. 
