@@ -15,6 +15,14 @@
     - Οδηγίες θα βρείτε εδώ: <a href="https://www.jetbrains.com/help/pycharm/github.html">Register GitHub on Pycharm</a>
 
 <p align="center">
+<img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/5.png?raw=true" width="800"/>
+</p> 
+
+<p align="center">
+<img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/6.png?raw=true" width="800"/>
+</p> 
+
+<p align="center">
 <img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/4.png?raw=true" width="800"/>
 </p> 
 
