@@ -13,7 +13,13 @@
     - Οδηγίες θα βρείτε εδώ: <a href="https://www.jetbrains.com/help/pycharm/installation-guide.html">Pycharm Installation Guide</a> 
 - ΒΗΜΑ 5: Συνένωση Pycharm με GitHub
     - Οδηγίες θα βρείτε εδώ: <a href="https://www.jetbrains.com/help/pycharm/github.html">Register GitHub on Pycharm</a>
+<p align="center">
+<img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/4.png?raw=true" width="800"/>
+</p> 
 - ΒΗΜΑ 6: Πάνω δεξιά στο `workshop` υπάρχει ένα κουμπί που λέι `fork` πάτησέ το για να αντιγράψεις όλα τα αρχεία στον δικό σου λογαριασμό
+<p align="center">
+<img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/3.png?raw=true" width="800"/>
+</p> 
 - ΒΗΜΑ 7: Άνοιξε το project στο `Pycharm`, δείτε πως εδώ:
     - Πριν κάνουμε οτιδήποτε, ας δούμε τι έχουμε πετύχει μέχρι τώρα:
         - Δημιούργησες έναν λογαριασμό στο `github` (Βήμα 1)
