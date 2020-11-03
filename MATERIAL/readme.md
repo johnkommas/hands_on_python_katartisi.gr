@@ -25,6 +25,12 @@
             - On the Welcome Screen, click the `Get from Version Control` link.
             - On the left tab select your GitHub Account
             - Inside you will find the project you have forked to your account
+<p align="center">
+<img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/1.png?raw=true" width="800"/>
+</p>
+<p align="center">
+<img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/2.png?raw=true" width="800"/>
+</p>           
     
 - ΒΗΜΑ 8: Υπάρχουν 3 Φάκελοι, σε κάθε ένα από αυτούς υπάρχουν, σημειώσεις και βίντεο προς παρακολύθηση
     - 01. HOW TO LISTEN
