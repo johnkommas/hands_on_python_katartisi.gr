@@ -4,6 +4,112 @@
 <h1 align="center">NOTES</h1>
 
 # Τι πρέπει να κάνω `πριν` ξεκινήσω τα μαθήματα:
+- Παρακάτω προτείνουμε το λειτουργικό `OS`. 
+- Τις ελάχιστες απαιτήσεις σε υλικό `HARDWARE`. 
+- Τις εφαρμογές που θα εγκαταστήσετε `SOFTWARE`. 
+- Δημιουργήστε έναν τουλάχιστον λογαριασμό στο `github`. 
+
+## <p align="center"> Operating System </center>
+<table style="width:100%">
+  <tr align="center" valign="bottom">
+    <th><p align="center">
+<img src="docs/img/Windows.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th>
+    <th><p align="center">
+<img src="docs/img/Mac.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th> 
+    <th><p align="center">
+<img src="docs/img/Linux.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th>
+  </tr>
+  <tr>
+    <td><p align="center">Windows 10, 64-bit</p></td>
+    <td><p align="center">macOS 10.13 or higher</p></td> 
+    <td><p align="center">GNOME or KDE desktop</p></td>
+  </tr>
+</table>
+
+## <p align="center"> Hardware </center>
+
+<table style="width:100%">
+  <tr align="center" valign="bottom">
+    <th><p align="center">
+<img src="docs/img/Ram.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th>
+    <th><p align="center">
+<img src="docs/img/SSD.svg" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th> 
+    <th><p align="center">
+<img src="docs/img/Screen.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th>
+  </tr>
+  <tr>
+    <td><p align="center">RAM: 2 GB minimum, 8 GB recommended</p></td>
+    <td><p align="center">2.5 GB Minimum Free Space</p></td> 
+    <td><p align="center">1024x768 minimum screen resolution</p></td>
+  </tr>
+</table>
+
+## <p align="center"> Software / Accounts </center>
+
+<table style="width:100%">
+  <tr align="center" valign="bottom">
+    <th><p align="center">
+<img src="docs/img/PyCharm.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th>
+    <th><p align="center">
+<img src="docs/img/Python.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th> 
+    <th><p align="center">
+<img src="docs/img/GitHub.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th>
+  </tr>
+  <tr>
+    <td><p align="center"><a href="https://www.jetbrains.com/pycharm/download/">Download Community Edition</a></p></td>
+    <td><p align="center"><a href="https://www.python.org/downloads/">Download Latest Version</a></p></td> 
+    <td><p align="center"><a href="https://github.com">Create Account</a></p></td>
+  </tr>
+</table>   
+
+## <p align="center"> Pycharm Plugins </center>
+<table style="width:100%">
+  <tr align="center" valign="bottom">
+    </th>
+    <th><p align="center">
+<img src="docs/img/plugin.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th> 
+    <th><p align="center">
+<img src="docs/img/csv.png" width="100"/>
+</p>
+<img src="docs/img/bar.png"/>
+</th> 
+  </tr>
+  <tr>
+    <td><p align="center"><a href="https://git.live">Link</a></p></td>
+    <td><p align="center"><a href="https://plugins.jetbrains.com/plugin/12896-rainbow-csv">Link</a></p></td>
+  </tr>
+</table>
+
 - ΒΗΜΑ 1: Δημιουργία λογαριασμού στο `GITHUB` 
 - ΒΗΜΑ 2: Εγκατάσταση του `GIT` τοπικά στον υπολογιστή μου.
     - Οδηγίες θα βρείτε εδώ: <a href="https://git-scm.com/downloads">Download GiT</a>
