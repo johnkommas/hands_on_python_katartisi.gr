@@ -4,7 +4,28 @@
 <h1 align="center">NOTES</h1>
 
 # Τι πρέπει να κάνω `πριν` ξεκινήσω τα μαθήματα:
-
+- ΒΗΜΑ 1: Δημιουργία λογαριασμού στο `GITHUB` 
+- ΒΗΜΑ 2: Εγκατάσταση του `GIT` τοπικά στον υπολογιστή μου.
+    - Οδηγίες θα βρείτε εδώ: <a href="https://git-scm.com/downloads">Download GiT</a>
+- ΒΗΜΑ 3: Εγκατάσταση `Python` τοπικά στον υπολογιστή μου.
+    - Οδηγίες θα βρείτε εδώ: <a href="https://www.python.org/downloads/">Download Python</a>
+- ΒΗΜΑ 4: Εγκατάσταση του `PyCharm` τοπικά στον υπολογιστή μου.
+    - Οδηγίες θα βρείτε εδώ: <a href="https://www.jetbrains.com/help/pycharm/installation-guide.html">Pycharm Installation Guide</a> 
+- ΒΗΜΑ 5: Συνένωση Pycharm με GitHub
+    - Οδηγίες θα βρείτε εδώ: <a href="https://www.jetbrains.com/help/pycharm/github.html">Register GitHub on Pycharm</a>
+- ΒΗΜΑ 6: Πάνω δεξιά στο `workshop` υπάρχει ένα κουμπί που λέι `fork` πάτησέ το για να αντιγράψεις όλα τα αρχεία στον δικό σου λογαριασμό
+- ΒΗΜΑ 7: Άνοιξε το project στο `Pycharm`
+    - Ας δούμε τι έχουμε πετύχει μέχρι τώρα:
+        - Δημιούργησες έναν λογαριασμό στο `github` (Βήμα 1)
+        - Πήρες ένα αντίγραφο του project και το έβαλες στο δικό σου `repository` (Βήμα 6)
+        - Εγκατέστησες τις εφαρμογές (Βήμα 2, 3, 4)
+        - Τώρα θέλεις να αλληλεπιδράς μέσα από την εφαρμογή `Pycharm` στο `Github` έτσι έκανες την συνένωση στο (ΒΗΜΑ 5)
+        - Το μόνο που μένει έιναι να φορτώσεις τοπικά το  `project` που έκανες `fork` στο `repository` σου.
+        - Οδηγίες θα βρεις εδώ:
+            - On the Welcome Screen, click the `Get from Version Control` link.
+            - On the left tab select your GitHub Account
+            - Inside you will find the project you have forked to your account
+    
 - Υπάρχουν 3 Φάκελοι, σε κάθε ένα από αυτούς υπάρχουν, σημειώσεις και βίντεο προς παρακολύθηση
     - 01. HOW TO LISTEN
     - 02. REMEMBER
@@ -20,21 +41,9 @@
 
 # Έχω πρόσβαση στις ασκήσεις?
 
-- Ναι στον φάκελο `LESSONS` όπου:
+- Ναι, στον φάκελο `LESSONS` όπου:
     - Για  κάθε ενότητα θα λύνετε και από μια μικρή άσκηση
 - Ο φάκελος `PROJECTS` όπου:
     - Για κάθε κεφάλαιο θα λύνετε 02 projects
 - Ο φάκελος `QUIZ` όπου:
-    - Για κάθε κεφάλαιο δίνετε εξετάσεις.
-    
-#  Τι άλλο θα κάνω πριν την έναρξη των μαθημάτων?
-- Δημιουργία λογαριασμού στο `GITHUB`
-- Εγκατάσταση του `GIT` τοπικά στον υπολογιστή μου <-- how? 
-    - <a href="https://git-scm.com/downloads">Download GiT</a>
-- Εγκατάσταση του `PyCharm` τοπικά στον υπολογιστή μου
-- <a href="https://www.jetbrains.com/help/pycharm/github.html">Register GitHub on Pycharm</a>
-- Πάνω δεξιά στο `workshop` θα βρείς ένα κουμπάκι που λέι `fork` πάτησέ το για να αντιγράψεις όλα τα αρχεία στον δικό σου λογαριασμό
-- Άνοιξε το project από το Pycharm `how ?` 
-    - On the Welcome Screen, click the `Get from Version Control` link.
-    - On the left tab select your GitHub Account
-    - Inside you will find the project you have forked to your account
+    - Για κάθε κεφάλαιο δίνετε εξετάσεις
