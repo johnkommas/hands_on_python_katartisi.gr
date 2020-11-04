@@ -13,19 +13,19 @@
 <table style="width:100%">
   <tr align="center" valign="bottom">
     <th><p align="center">
-<img src="docs/img/Windows.png" width="100"/>
+<img src="../docs/img/Windows.png" width="100"/>
 </p>
-<img src="docs/img/bar.png"/>
+<img src="../docs/img/bar.png"/>
 </th>
     <th><p align="center">
 <img src="../docs/img/Mac.png" width="100"/>
 </p>
-<img src="docs/img/bar.png"/>
+<img src="../docs/img/bar.png"/>
 </th> 
     <th><p align="center">
-<img src="docs/img/Linux.png" width="100"/>
+<img src="../docs/img/Linux.png" width="100"/>
 </p>
-<img src="docs/img/bar.png"/>
+<img src="../docs/img/bar.png"/>
 </th>
   </tr>
   <tr>
@@ -40,19 +40,19 @@
 <table style="width:100%">
   <tr align="center" valign="bottom">
     <th><p align="center">
-<img src="docs/img/Ram.png" width="100"/>
+<img src="../docs/img/Ram.png" width="100"/>
 </p>
-<img src="docs/img/bar.png"/>
+<img src="../docs/img/bar.png"/>
 </th>
     <th><p align="center">
-<img src="docs/img/SSD.svg" width="100"/>
+<img src="../docs/img/SSD.svg" width="100"/>
 </p>
-<img src="docs/img/bar.png"/>
+<img src="../docs/img/bar.png"/>
 </th> 
     <th><p align="center">
-<img src="docs/img/Screen.png" width="100"/>
+<img src="../docs/img/Screen.png" width="100"/>
 </p>
-<img src="docs/img/bar.png"/>
+<img src="../docs/img/bar.png"/>
 </th>
   </tr>
   <tr>
@@ -67,19 +67,19 @@
 <table style="width:100%">
   <tr align="center" valign="bottom">
     <th><p align="center">
-<img src="docs/img/PyCharm.png" width="100"/>
+<img src="../docs/img/PyCharm.png" width="100"/>
 </p>
-<img src="docs/img/bar.png"/>
+<img src="../docs/img/bar.png"/>
 </th>
     <th><p align="center">
-<img src="docs/img/Python.png" width="100"/>
+<img src="../docs/img/Python.png" width="100"/>
 </p>
-<img src="docs/img/bar.png"/>
+<img src="../docs/img/bar.png"/>
 </th> 
     <th><p align="center">
-<img src="docs/img/GitHub.png" width="100"/>
+<img src="../docs/img/GitHub.png" width="100"/>
 </p>
-<img src="docs/img/bar.png"/>
+<img src="../docs/img/bar.png"/>
 </th>
   </tr>
   <tr>
@@ -94,14 +94,14 @@
   <tr align="center" valign="bottom">
     </th>
     <th><p align="center">
-<img src="docs/img/plugin.png" width="100"/>
+<img src="../docs/img/plugin.png" width="100"/>
 </p>
-<img src="docs/img/bar.png"/>
+<img src="../docs/img/bar.png"/>
 </th> 
     <th><p align="center">
-<img src="docs/img/csv.png" width="100"/>
+<img src="../docs/img/csv.png" width="100"/>
 </p>
-<img src="docs/img/bar.png"/>
+<img src="../docs/img/bar.png"/>
 </th> 
   </tr>
   <tr>
@@ -121,21 +121,21 @@
     - Οδηγίες θα βρείτε εδώ: <a href="https://www.jetbrains.com/help/pycharm/github.html">Register GitHub on Pycharm</a>
 
 <p align="center">
-<img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/5.png?raw=true" width="800"/>
+<img src="../docs/img/5.png?raw=true" width="800"/>
 </p> 
 
 <p align="center">
-<img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/6.png?raw=true" width="800"/>
+<img src="../docs/img/6.png?raw=true" width="800"/>
 </p> 
 
 <p align="center">
-<img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/4.png?raw=true" width="800"/>
+<img src="../docs/img/4.png?raw=true" width="800"/>
 </p> 
 
 - ΒΗΜΑ 6: Εδώ σε αυτήν την ιστοσελίδα, πάνω πάνω δεξιά υπάρχει ένα κουμπί που λέι `fork` πάτησέ το για να αντιγράψεις όλα τα αρχεία στον δικό σου λογαριασμό
 
 <p align="center">
-<img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/3.png?raw=true" width="800"/>
+<img src="../docs/img/3.png?raw=true" width="800"/>
 </p> 
 
 - ΒΗΜΑ 7: Άνοιξε το project στο `Pycharm`, δείτε πως εδώ:
@@ -151,11 +151,11 @@
             - Inside you will find the project you have forked to your account
 
 <p align="center">
-<img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/1.png?raw=true" width="800"/>
+<img src="../docs/img/1.png?raw=true" width="800"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/johnkommas/hands_on_python_katartisi.gr/blob/master/docs/img/2.png?raw=true" width="800"/>
+<img src="../docs/img/2.png?raw=true" width="800"/>
 </p>           
     
 - ΒΗΜΑ 8: Υπάρχουν 3 Φάκελοι, σε κάθε ένα από αυτούς υπάρχουν, σημειώσεις και βίντεο προς παρακολoύθηση
