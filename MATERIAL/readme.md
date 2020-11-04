@@ -110,14 +110,27 @@
   </tr>
 </table>
 
-- ΒΗΜΑ 1: Δημιουργία λογαριασμού στο `GITHUB` 
-- ΒΗΜΑ 2: Εγκατάσταση του `GIT` τοπικά στον υπολογιστή μου.
+<h1 align="center"> ΒΗΜΑ 1 </h1>
+
+- Δημιουργία λογαριασμού στο `GITHUB` 
+
+<h1 align="center"> ΒΗΜΑ 2 </h1>
+- Εγκατάσταση του `GIT` τοπικά στον υπολογιστή μου.
     - Οδηγίες θα βρείτε εδώ: <a href="https://git-scm.com/downloads">Download GiT</a>
-- ΒΗΜΑ 3: Εγκατάσταση `Python` τοπικά στον υπολογιστή μου.
+
+<h1 align="center"> ΒΗΜΑ 3 </h1>
+
+- Εγκατάσταση `Python` τοπικά στον υπολογιστή μου.
     - Οδηγίες θα βρείτε εδώ: <a href="https://www.python.org/downloads/">Download Python</a>
-- ΒΗΜΑ 4: Εγκατάσταση του `PyCharm` τοπικά στον υπολογιστή μου.
+
+<h1 align="center"> ΒΗΜΑ 4 </h1>
+
+- Εγκατάσταση του `PyCharm` τοπικά στον υπολογιστή μου.
     - Οδηγίες θα βρείτε εδώ: <a href="https://www.jetbrains.com/help/pycharm/installation-guide.html">Pycharm Installation Guide</a> 
-- ΒΗΜΑ 5: Συνένωση Pycharm με GitHub
+
+<h1 align="center"> ΒΗΜΑ 5 </h1>
+
+- Συνένωση Pycharm με GitHub
     - Οδηγίες θα βρείτε εδώ: <a href="https://www.jetbrains.com/help/pycharm/github.html">Register GitHub on Pycharm</a>
 
 <p align="center">
@@ -132,13 +145,19 @@
 <img src="../docs/img/4.png?raw=true" width="800"/>
 </p> 
 
-- ΒΗΜΑ 6: Εδώ σε αυτήν την ιστοσελίδα, πάνω πάνω δεξιά υπάρχει ένα κουμπί που λέι `fork` πάτησέ το για να αντιγράψεις όλα τα αρχεία στον δικό σου λογαριασμό
+
+<h1 align="center"> ΒΗΜΑ 6 </h1>
+
+- Εδώ σε αυτήν την ιστοσελίδα, πάνω πάνω δεξιά υπάρχει ένα κουμπί που λέι `fork` πάτησέ το για να αντιγράψεις όλα τα αρχεία στον δικό σου λογαριασμό
 
 <p align="center">
 <img src="../docs/img/3.png?raw=true" width="800"/>
 </p> 
 
-- ΒΗΜΑ 7: Άνοιξε το project στο `Pycharm`, δείτε πως εδώ:
+
+<h1 align="center"> ΒΗΜΑ 7 </h1>
+
+- Άνοιξε το project στο `Pycharm`, δείτε πως εδώ:
     - Πριν κάνουμε οτιδήποτε, ας δούμε τι έχουμε πετύχει μέχρι τώρα:
         - Δημιούργησες έναν λογαριασμό στο `github` (Βήμα 1)
         - Πήρες ένα αντίγραφο `fork` του `project` και το έβαλες στο δικό σου λογαριασμό `repository` (Βήμα 6)
@@ -157,8 +176,11 @@
 <p align="center">
 <img src="../docs/img/2.png?raw=true" width="800"/>
 </p>           
-    
-- ΒΗΜΑ 8: Υπάρχουν 3 Φάκελοι, σε κάθε ένα από αυτούς υπάρχουν, σημειώσεις και βίντεο προς παρακολoύθηση
+   
+   
+<h1 align="center"> ΒΗΜΑ 8 </h1>   
+   
+- Υπάρχουν 3 Φάκελοι, σε κάθε ένα από αυτούς υπάρχουν, σημειώσεις και βίντεο προς παρακολoύθηση
     - 01. HOW TO LISTEN
         - Οδηγίες θα βρείτε εδώ: <a href="01. HOW TO LISTEN/">Open Folder</a>
     - 02. REMEMBER
