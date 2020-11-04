@@ -18,7 +18,7 @@
 <img src="docs/img/bar.png"/>
 </th>
     <th><p align="center">
-<img src="..docs/img/Mac.png" width="100"/>
+<img src="../docs/img/Mac.png" width="100"/>
 </p>
 <img src="docs/img/bar.png"/>
 </th> 
