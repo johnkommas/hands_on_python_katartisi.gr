@@ -110,25 +110,25 @@
   </tr>
 </table>
 
-<h1 align="center"> ΒΗΜΑ 1 </h1>
+<h1> ΒΗΜΑ 1 </h1>
 
 - Δημιουργία λογαριασμού στο `GITHUB` 
 
-<h1 align="center"> ΒΗΜΑ 2 </h1>
+<h1> ΒΗΜΑ 2 </h1>
 - Εγκατάσταση του `GIT` τοπικά στον υπολογιστή μου.
     - Οδηγίες θα βρείτε εδώ: <a href="https://git-scm.com/downloads">Download GiT</a>
 
-<h1 align="center"> ΒΗΜΑ 3 </h1>
+<h1> ΒΗΜΑ 3 </h1>
 
 - Εγκατάσταση `Python` τοπικά στον υπολογιστή μου.
     - Οδηγίες θα βρείτε εδώ: <a href="https://www.python.org/downloads/">Download Python</a>
 
-<h1 align="center"> ΒΗΜΑ 4 </h1>
+<h1> ΒΗΜΑ 4 </h1>
 
 - Εγκατάσταση του `PyCharm` τοπικά στον υπολογιστή μου.
     - Οδηγίες θα βρείτε εδώ: <a href="https://www.jetbrains.com/help/pycharm/installation-guide.html">Pycharm Installation Guide</a> 
 
-<h1 align="center"> ΒΗΜΑ 5 </h1>
+<h1> ΒΗΜΑ 5 </h1>
 
 - Συνένωση Pycharm με GitHub
     - Οδηγίες θα βρείτε εδώ: <a href="https://www.jetbrains.com/help/pycharm/github.html">Register GitHub on Pycharm</a>
@@ -146,7 +146,7 @@
 </p> 
 
 
-<h1 align="center"> ΒΗΜΑ 6 </h1>
+<h1> ΒΗΜΑ 6 </h1>
 
 - Εδώ σε αυτήν την ιστοσελίδα, πάνω πάνω δεξιά υπάρχει ένα κουμπί που λέι `fork` πάτησέ το για να αντιγράψεις όλα τα αρχεία στον δικό σου λογαριασμό
 
@@ -155,7 +155,7 @@
 </p> 
 
 
-<h1 align="center"> ΒΗΜΑ 7 </h1>
+<h1> ΒΗΜΑ 7 </h1>
 
 - Άνοιξε το project στο `Pycharm`, δείτε πως εδώ:
     - Πριν κάνουμε οτιδήποτε, ας δούμε τι έχουμε πετύχει μέχρι τώρα:
@@ -178,7 +178,7 @@
 </p>           
    
    
-<h1 align="center"> ΒΗΜΑ 8 </h1>   
+<h1> ΒΗΜΑ 8 </h1>   
    
 - Υπάρχουν 3 Φάκελοι, σε κάθε ένα από αυτούς υπάρχουν, σημειώσεις και βίντεο προς παρακολoύθηση
     - 01. HOW TO LISTEN
