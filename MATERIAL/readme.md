@@ -4,10 +4,8 @@
 <h1 align="center">NOTES</h1>
 
 # Τι πρέπει να κάνω `πριν` ξεκινήσω τα μαθήματα:
-- Παρακάτω προτείνουμε προτεινόμενη έκδοση για κάθε λειτουργικό `OS`. 
-- Τις ελάχιστες απαιτήσεις σε υλικό `HARDWARE`. 
-- Τις εφαρμογές που θα εγκαταστήσετε `SOFTWARE`. 
-- Δημιουργήστε έναν τουλάχιστον λογαριασμό στο `github`. 
+
+## Παρακάτω προτείνουμε έκδοση για κάθε λειτουργικό `OS`.
 
 ## <p align="center"> Operating System </center>
 <table style="width:100%">
@@ -35,6 +33,8 @@
   </tr>
 </table>
 
+## Τις ελάχιστες απαιτήσεις σε υλικό `HARDWARE`.
+
 ## <p align="center"> Hardware </center>
 
 <table style="width:100%">
@@ -61,6 +61,8 @@
     <td><p align="center">1024x768 minimum screen resolution</p></td>
   </tr>
 </table>
+
+## - Τις εφαρμογές που θα εγκαταστήσετε `SOFTWARE`. 
 
 ## <p align="center"> Software / Accounts </center>
 
