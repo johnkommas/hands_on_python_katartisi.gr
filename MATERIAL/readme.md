@@ -16,7 +16,7 @@
      - Binder
      - Deepnote
      
-## Παρακάτω προτείνουμε έκδοση για κάθε λειτουργικό `OS`.
+## Παρακάτω προτείνουμε έκδοση για κάθε λειτουργικό.
 
 ## <p align="center"> Operating System </center>
 <table style="width:100%">
@@ -44,7 +44,7 @@
   </tr>
 </table>
 
-## Τις ελάχιστες απαιτήσεις σε υλικό `HARDWARE`.
+## Τις ελάχιστες απαιτήσεις σε υλικό.
 
 ## <p align="center"> Hardware </center>
 
@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-## - Τις εφαρμογές που θα εγκαταστήσετε `SOFTWARE`. 
+## Τις εφαρμογές που θα εγκαταστήσετε. 
 
 ## <p align="center"> Software / Accounts </center>
 
@@ -153,6 +153,20 @@
 <p align="center">
 <img src="../docs/img/6.png?raw=true" width="800"/>
 </p> 
+
+- Windows Users
+    - In the Settings/Preferences dialog Ctrl+Alt+S, select Version Control | GitHub in the left pane.
+
+- Mac Users
+    - In the Settings/Preferences dialog ⌘,, select Version Control | GitHub in the left pane.
+
+- Click the Add button.
+- In the dialog that opens, specify your GitHub server URL (either github.com, or an enterprise instance).
+- Do one of the following:
+    - If you already have a token, click the Use Token link and paste it there.
+    - If you want to obtain a new token, enter your login and password. If you have two-factor authentication enabled, you will be asked to enter a code that will be sent to you by SMS or through the mobile application. See Creating a personal access token for more details on GitHub tokens.
+
+- The token must have the repo, the gist and the read:org scopes enabled in your account permissions (see Understanding scopes).
 
 <p align="center">
 <img src="../docs/img/4.png?raw=true" width="800"/>
