@@ -145,7 +145,7 @@
 
 - Συνένωση Pycharm με GitHub
     - Οδηγίες θα βρείτε εδώ: <a href="https://www.jetbrains.com/help/pycharm/github.html">Register GitHub on Pycharm</a>
-
+    - Ακολουθεί Βοηθητικό Φωτογραφικό Υλικό:
 <p align="center">
 <img src="../docs/img/5.png?raw=true" width="800"/>
 </p> 
@@ -153,20 +153,6 @@
 <p align="center">
 <img src="../docs/img/6.png?raw=true" width="800"/>
 </p> 
-
-- Windows Users
-    - In the Settings/Preferences dialog Ctrl+Alt+S, select Version Control | GitHub in the left pane.
-
-- Mac Users
-    - In the Settings/Preferences dialog ⌘,, select Version Control | GitHub in the left pane.
-
-- Click the Add button.
-- In the dialog that opens, specify your GitHub server URL (either github.com, or an enterprise instance).
-- Do one of the following:
-    - If you already have a token, click the Use Token link and paste it there.
-    - If you want to obtain a new token, enter your login and password. If you have two-factor authentication enabled, you will be asked to enter a code that will be sent to you by SMS or through the mobile application. See Creating a personal access token for more details on GitHub tokens.
-
-- The token must have the repo, the gist and the read:org scopes enabled in your account permissions (see Understanding scopes).
 
 <p align="center">
 <img src="../docs/img/4.png?raw=true" width="800"/>
@@ -176,7 +162,7 @@
 <h1> ΒΗΜΑ 6 </h1>
 
 - Εδώ σε αυτήν την ιστοσελίδα, πάνω πάνω δεξιά υπάρχει ένα κουμπί που λέι `fork` πάτησέ το για να αντιγράψεις όλα τα αρχεία στον δικό σου λογαριασμό
-
+    - Ακολουθεί Βοηθητικό Φωτογραφικό Υλικό
 <p align="center">
 <img src="../docs/img/3.png?raw=true" width="800"/>
 </p> 
@@ -191,10 +177,7 @@
         - Εγκατέστησες τις εφαρμογές (Βήμα 2, 3, 4)
         - Τώρα θέλεις να αλληλεπιδράς μέσα από την εφαρμογή `Pycharm` στο `Github` έτσι έκανες την συνένωση στο (ΒΗΜΑ 5)
         - Το μόνο που μένει, έιναι να φορτώσεις τοπικά τα αρχεία στον υπολογιστή σου.
-        - Οδηγίες θα βρεις εδώ:
-            - On the Welcome Screen, click the `Get from Version Control` link.
-            - On the left tab select your GitHub Account
-            - Inside you will find the project you have forked to your account
+        - Ακολουθεί Βοηθητικό Φωτογραφικό Υλικό
 
 <p align="center">
 <img src="../docs/img/1.png?raw=true" width="800"/>
