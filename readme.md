@@ -161,6 +161,7 @@
         <li><b>02. Functions</b></li>
           <ul>
            <li>Getting Ready for Physics</li>
+           <li>Medical Insurance</li>
            </ul>
       </ul>
         <ul>
