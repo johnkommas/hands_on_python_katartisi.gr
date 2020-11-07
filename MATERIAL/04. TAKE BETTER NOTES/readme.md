@@ -9,7 +9,7 @@
 - USE ABBREVIATIONS (MAKE A LIST BEFORE THE LECTURE)
 - LEAVE OUT UNIMPORTANT WORDS
 
-# KNOW YOUR INSTRUCTOS
+# KNOW YOUR INSTRUCTORS
 - LECTURE STYLE
 - SHOW NOTES TO TEACHER EARLY FOR EVALUATION
 
@@ -18,6 +18,7 @@
 <img src="https://images.wondershare.com/pdfelement/mobile-app/pdf-knowledage/cornel-note-taking.jpg" width="500"/>
 </p>
 
+- TYPE - REWRITE YOUR NOTES (REVIEW) (MAKE YOUR NOTES BETTER)
 # TODO 
 - Click The Link Below & See The Video From LBCC University.
 <td><p align="center"><a
