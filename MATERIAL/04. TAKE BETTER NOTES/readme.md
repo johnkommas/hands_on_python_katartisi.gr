@@ -15,7 +15,7 @@
 
 # CORNELL NOTES TAKING SYSTEM
 <p align="center">
-<img src="https://images.wondershare.com/pdfelement/mobile-app/pdf-knowledage/cornel-note-taking.jpg" width="800"/>
+<img src="https://images.wondershare.com/pdfelement/mobile-app/pdf-knowledage/cornel-note-taking.jpg" width="500"/>
 </p>
 
 # TODO 
