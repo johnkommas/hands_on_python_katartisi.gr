@@ -3,6 +3,8 @@ train_acceleration = 10
 train_distance = 100
 bomb_mass = 1
 
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
+
 # TODO 01
 
 # TODO 02

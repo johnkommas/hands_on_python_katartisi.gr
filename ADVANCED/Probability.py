@@ -1,3 +1,5 @@
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
+
 import random
 
 num_people_in_room = 90  # Change This Number min: 2 max: 83

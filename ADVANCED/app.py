@@ -1,4 +1,4 @@
-#  Copyright (c) 2020. Ioannis E. Kommas. All Rights Reserved.
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
 import math
 import time
 from datetime import datetime as dt

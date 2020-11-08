@@ -1,5 +1,4 @@
-#  Copyright (c) 2020. Ioannis E. Kommas. All Rights Reserved.
-# example ------------------- ΠΑΡΑΔΕΙΓΜΑ ---------------------
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
 coffee_price = 1.50
 number_of_coffees = 4
 

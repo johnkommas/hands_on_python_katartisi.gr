@@ -1,5 +1,4 @@
-#  Copyright (c) 2020. Ioannis E. Kommas. All Rights Reserved.
-# EXAMPLE ------------------- ΠΑΡΑΔΕΙΓΜΑ A---------------------
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
 greeting_text = "Hey there!"
 question_text = "How are you doing?"
 full_text = greeting_text + " " + question_text

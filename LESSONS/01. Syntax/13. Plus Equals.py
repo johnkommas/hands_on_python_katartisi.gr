@@ -1,5 +1,4 @@
-#  Copyright (c) 2020. Ioannis E. Kommas. All Rights Reserved.
-# EXAMPLE ------------------- ΠΑΡΑΔΕΙΓΜΑ A---------------------
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
 x = 1
 x += 1
 print(x)  # Prints 2

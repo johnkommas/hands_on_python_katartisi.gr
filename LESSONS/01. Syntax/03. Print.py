@@ -1,6 +1,4 @@
-#  Copyright (c) 2020. Ioannis E. Kommas. All Rights Reserved.
-# example ------------------- ΠΑΡΑΔΕΙΓΜΑ ---------------------
-# from Mary Shelley's Frankenstein
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
 print("There is something at work in my soul, which I do not understand.")
 
 # exercise ------------------- ΑΣΚΗΣΗ ---------------------

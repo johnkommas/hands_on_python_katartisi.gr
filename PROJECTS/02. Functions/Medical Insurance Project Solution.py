@@ -1,3 +1,5 @@
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
+
 # Create calculate_insurance_cost() function below:
 
 

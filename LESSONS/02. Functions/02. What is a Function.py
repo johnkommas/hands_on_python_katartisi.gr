@@ -1,3 +1,5 @@
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
+
 # TODO ------------------- ΑΣΚΗΣΗ ---------------------
 """
 Έχουμε δημιουργήσει μια συνάρτηση για εσάς που ονομάζεται greet_customer.

@@ -1,4 +1,6 @@
 
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
+
 # TODO ------------------- ΑΣΚΗΣΗ ---------------------
 """
 Γράψτε μια συνάρτηση που ονομάζεται get_boundaries () που παίρνει δύο παραμέτρους,

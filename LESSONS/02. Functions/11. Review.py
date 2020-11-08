@@ -1,3 +1,5 @@
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
+
 # TODO ------------------- ΑΣΚΗΣΗ ---------------------
 """
 1. Καθορίστε μια συνάρτηση που ονομάζεται repeat_stuff & λαμβάνει δύο εισόδους, stuff και num_repeats.

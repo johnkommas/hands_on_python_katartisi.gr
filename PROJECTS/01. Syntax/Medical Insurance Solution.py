@@ -1,3 +1,5 @@
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
+
 # TODO 1. Create Variables
 
 # TODO 2. initialize formula and Calculate

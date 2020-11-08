@@ -1,4 +1,4 @@
-#  Copyright (c) 2020. Ioannis E. Kommas. All Rights Reserved.
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
 
 # EXAMPLE ------------------- ΠΑΡΑΔΕΙΓΜΑ ---------------------
 print(2 ** 10)  # 2 to the 10th power, or 1024

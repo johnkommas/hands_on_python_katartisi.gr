@@ -1,3 +1,5 @@
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
+
 # exercise 01 ------------------- ΑΣΚΗΣΗ ---------------------
 """
 Write a function named first_three_multiples() that has one parameter named num.

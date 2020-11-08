@@ -1,3 +1,5 @@
+#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
+
 # TODO ------------------- ΑΣΚΗΣΗ ---------------------
 """
 1. Aποθηκεύστε το τρέχων έτος στην μεταβλητή current_year, χρησιμοποιώντας την βιβιλιοθήκη datetime.
