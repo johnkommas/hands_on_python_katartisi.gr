@@ -203,5 +203,5 @@
 - Στον φάκελο `MATERIAL` θα βρείτε οδηγίες και υλικό που καλείστε να παρακολουθήσετε πριν ξεκινήσουν τα μαθήματα.
     - Διαβάστε προσεκτικά τις οδηγίες εδώ: <a href="MATERIAL/">Click me</a>
 
-
+https://code-with-me.jetbrains.com/9DO8pq6k7kr1QOlAzzlG_g#p=PY&fp=D75C9064F8C8CFD40356E261F55973FB453E94EF3CB0EFB07BF6B453B5008B50
 

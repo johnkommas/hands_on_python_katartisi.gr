@@ -111,6 +111,8 @@ Write a function named square_root() that has one parameter named num.
 
 Use exponents (**) to return the square root of num.
 """
+
+
 # Write your square_root function here:
 
 # Uncomment these function calls to test your square_root function:
@@ -141,3 +143,4 @@ Use exponents (**) to return the square root of num.
 
 # exercise 11 ------------------- ΑΣΚΗΣΗ ---------------------
 # TODO 1.  Write a  function to check and return True if the given integer number is an even number False if not
+
