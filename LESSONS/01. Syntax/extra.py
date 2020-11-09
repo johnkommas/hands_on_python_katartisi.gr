@@ -24,11 +24,6 @@ print(f"""
 # Να γράψετε πρόγραμμα που θα δέχεται έναν τριψήφιο αριθμό και θα τυπώνει το άθροισμα των ψηφίων του
 # και τον αριθμό ανάποδα.
 
-number = (input('Give me 3 digits:'))
-print(f"""
-SUM OF NUMBERS {number[0]} + {number[1]} + {number[2]} = {int(number[0])+int(number[1])+int(number[2])}
-THE NUMBER {number} REVERSED IS: {number[-1]+number[-2]+number[-3]}
-""")
 
 
 # TODO ------------------- ΑΣΚΗΣΗ 3 ---------------------
