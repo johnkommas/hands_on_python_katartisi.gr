@@ -1,4 +1,8 @@
 #  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 # TODO ------------------- ΘΕΩΡΙΑ ---------------------
 # Αν κατά την εκτέλεση του προγράμματος θέλουμε να βάζουμε εμείς τις τιμές
