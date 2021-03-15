@@ -1,4 +1,4 @@
-#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
+#  Copyright (c) 2021.  Ioannis E. Kommas. All Rights Reserved.
 
 # EXAMPLE ------------------- ΠΑΡΑΔΕΙΓΜΑ ---------------------
 print(29 % 5)  # Prints 4

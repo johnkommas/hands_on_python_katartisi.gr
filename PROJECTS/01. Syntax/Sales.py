@@ -1,4 +1,4 @@
-#  Copyright (c) 2020.  Ioannis E. Kommas. All Rights Reserved.
+#  Copyright (c) 2021.  Ioannis E. Kommas. All Rights Reserved.
 
 "1.	Let’s add in our first item, the Lovely Seat that is the store’s namesake. Create a variable called ls_description"
 "and assign to it the following string:  Lovely Seat "
