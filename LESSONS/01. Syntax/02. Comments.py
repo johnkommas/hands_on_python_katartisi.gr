@@ -1,10 +1,10 @@
 #  Copyright (c) 2021.  Ioannis E. Kommas. All Rights Reserved.
 
 # example ------------------- ΠΑΡΑΔΕΙΓΜΑ ---------------------
-# Αυτός ο κωδικός θα υπολογίσει την πιθανότητα αύριο να βρέξει
-complicated_rain_calculation_for_tomorrow = 'Yes'
-# useful_value = old_sloppy_code()
-useful_value = complicated_rain_calculation_for_tomorrow
+# Η παρακάτω μεταβλητή αρχικοποιεί τον χρόνο πτήσης ενός αεροσκάφους
+airplane_flight_time = 0
+# airplane_flight_time_in_realtime = old_function()
+airplane_flight_time_in_realtime = airplane_flight_time
 
 
 # exercise ------------------- ΑΣΚΗΣΗ ---------------------

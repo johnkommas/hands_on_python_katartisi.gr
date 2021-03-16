@@ -5,6 +5,6 @@
 # Για να εκτελέσεις τον κώδικα κάνε δεξί κλίκ και επίλεξε το RUN '01. Welcome.py'
 #
 my_name = "My Name"
-print("Hello and welcome " + "\n" + my_name + "!")
+print(f"Hello everyone \nMy Name is: {my_name}!")
 
 
